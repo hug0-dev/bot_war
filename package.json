@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/hug0-dev/bot_war#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   },
   "devDependencies": {
